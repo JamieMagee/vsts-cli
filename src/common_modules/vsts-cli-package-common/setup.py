@@ -17,7 +17,7 @@ VERSION = '0.1.3'
 
 REQUIRES = [
     'colorama>=0.3.9',
-    'humanfriendly==4.7',
+    'humanfriendly~=4.17',
     'knack==0.4.1',
     'python-dateutil==2.7.3',
     'vsts~=0.1.16.dev',
