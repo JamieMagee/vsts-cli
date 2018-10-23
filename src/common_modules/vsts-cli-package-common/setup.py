@@ -16,7 +16,7 @@ VERSION = '0.1.3'
 # http://pypi.python.org/pypi/setuptools
 
 REQUIRES = [
-    'colorama>=0.3.9',
+    'colorama~=0.4.0',
     'humanfriendly==4.7',
     'knack==0.4.1',
     'python-dateutil==2.7.3',
